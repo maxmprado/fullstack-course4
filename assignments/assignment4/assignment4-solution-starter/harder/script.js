@@ -1,3 +1,4 @@
+(function(){
 // *******************************
 // START HERE IF YOU WANT A MORE CHALLENGING STARTING POINT FOR THIS ASSIGNMENT
 // *******************************
@@ -63,3 +64,4 @@ for (/* fill in parts of the 'for' loop to loop over names array */) {
     // helloSpeaker.xxxx
   }
 }
+})();
